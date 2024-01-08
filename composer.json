@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-doctrine-querybuilder",
+    "name": "foleon/api-tools-doctrine-querybuilder",
     "description": "Laminas API Tools Doctrine QueryBuilder module",
     "license": "BSD-3-Clause",
     "keywords": [
